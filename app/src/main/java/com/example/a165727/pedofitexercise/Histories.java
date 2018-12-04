@@ -10,4 +10,8 @@ public class Histories extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_histories);
     }
+    private void sengkittest(){
+        int test = 1;
+    }
+
 }
